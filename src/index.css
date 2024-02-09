@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.contaner {
+  height: 100%;
+  width: 50%;
+  margin: 200px;
+}
+.logen-page-menu {
+  margin: 20px 0 0 130px;
+}
+.login-page-title {
+  margin-left: 30px;
+}
+.title {
+  text-align: center;
+  font-size: 28px;
+  color: #1f1f1f;
+}
+.text {
+  margin-top: 17px;
+  text-align: center;
+  font-size: 14px;
+  color: #8c8c8c;
+}
+.logen-page-menu {
+  width: 70%;
+}
+.fa-envelope {
+  position: relative;
+  font-size: 20px;
+
+  left: 8px;
+  top: 29px;
+}
+.fa-lock {
+  position: relative;
+  font-size: 25px;
+  left: 10px;
+  top: 30px;
+}
+.fa-eye {
+  position: relative;
+  right: 25px;
+  top: 10px;
+}
+span {
+  color: red;
+}
+.emil-input {
+  /* margin-left: 5px; */
+  width: 85%;
+  padding: 10px 30px;
+  border-radius: 8px;
+  border: 2px solid #8c8c8c;
+}
+.emil-password {
+  width: 90%;
+  padding: 10px 30px;
+  border-radius: 8px;
+  border: 2px solid #8c8c8c;
+}
+.emil-text {
+  margin-bottom: -20px;
+}
+.password-text {
+  margin-bottom: -24px;
+}
+.password-eye {
+  display: flex;
+}
+.password {
+  margin-top: 15px;
+}
+.menu-forget {
+  margin: 10px 0 25px 0;
+}
+button {
+  width: 96%;
+  color: azure;
+  text-align: center;
+  background-color: blue;
+  border-radius: 8px;
+  border: 1px solid #8c8c8c;
+  padding: 10px;
+}
